@@ -1,6 +1,6 @@
 def looping
 	#your code here
-  "Wingardium Leviosa"
+pute   "Wingardium Leviosa"
 end
 
 #call your method here
